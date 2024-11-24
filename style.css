@@ -1,0 +1,19 @@
+/* Cuerpo del documento */
+body {
+  font-family: "Arial", sans-serif;
+  padding: 0;
+  margin: 0; /* Elimina márgenes predeterminados */
+  background-color: white;
+}
+
+.header {
+  background-color: #333333;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+header a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
